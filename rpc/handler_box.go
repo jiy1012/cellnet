@@ -1,8 +1,8 @@
 package rpc
 
 import (
-	"github.com/davyxu/cellnet"
-	"github.com/davyxu/cellnet/proto/binary/coredef"
+	"github.com/jiy1012/cellnet"
+	"github.com/jiy1012/cellnet/proto/binary/coredef"
 )
 
 type BoxHandler struct {

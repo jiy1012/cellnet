@@ -1,8 +1,8 @@
 package kcp
 
 import (
-	"github.com/davyxu/cellnet"
-	"github.com/davyxu/cellnet/extend"
+	"github.com/jiy1012/cellnet"
+	"github.com/jiy1012/cellnet/extend"
 	"github.com/xtaci/kcp-go"
 )
 

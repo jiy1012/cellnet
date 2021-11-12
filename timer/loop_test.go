@@ -2,7 +2,7 @@ package timer
 
 import (
 	"fmt"
-	"github.com/davyxu/cellnet"
+	"github.com/jiy1012/cellnet"
 	"testing"
 	"time"
 )

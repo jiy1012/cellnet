@@ -1,9 +1,9 @@
 package gamedef
 
 import (
-	"github.com/davyxu/cellnet"
-	_ "github.com/davyxu/cellnet/codec/json"
-	"github.com/davyxu/cellnet/util"
+	"github.com/jiy1012/cellnet"
+	_ "github.com/jiy1012/cellnet/codec/json"
+	"github.com/jiy1012/cellnet/util"
 	"github.com/davyxu/goobjfmt"
 	"reflect"
 )

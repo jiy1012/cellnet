@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/davyxu/cellnet"
-	jsongamedef "github.com/davyxu/cellnet/proto/json/gamedef" // json逻辑协议
-	"github.com/davyxu/cellnet/websocket"
+	"github.com/jiy1012/cellnet"
+	jsongamedef "github.com/jiy1012/cellnet/proto/json/gamedef" // json逻辑协议
+	"github.com/jiy1012/cellnet/websocket"
 	"github.com/davyxu/golog"
 )
 

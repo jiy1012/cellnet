@@ -3,11 +3,11 @@ package tests
 import (
 	"testing"
 
-	"github.com/davyxu/cellnet"
-	_ "github.com/davyxu/cellnet/codec/pb" // 启用pb编码
-	"github.com/davyxu/cellnet/proto/pb/gamedef"
-	"github.com/davyxu/cellnet/socket"
-	"github.com/davyxu/cellnet/util"
+	"github.com/jiy1012/cellnet"
+	_ "github.com/jiy1012/cellnet/codec/pb" // 启用pb编码
+	"github.com/jiy1012/cellnet/proto/pb/gamedef"
+	"github.com/jiy1012/cellnet/socket"
+	"github.com/jiy1012/cellnet/util"
 	"sync"
 	"time"
 )

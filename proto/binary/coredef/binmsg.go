@@ -1,8 +1,8 @@
 package coredef
 
 import (
-	"github.com/davyxu/cellnet"
-	_ "github.com/davyxu/cellnet/codec/binary"
+	"github.com/jiy1012/cellnet"
+	_ "github.com/jiy1012/cellnet/codec/binary"
 )
 
 // Acceptor的会话被允许接入时

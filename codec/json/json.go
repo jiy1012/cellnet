@@ -2,7 +2,7 @@ package json
 
 import (
 	"encoding/json"
-	"github.com/davyxu/cellnet"
+	"github.com/jiy1012/cellnet"
 )
 
 type jsonCodec struct {

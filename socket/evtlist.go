@@ -3,7 +3,7 @@ package socket
 import (
 	"sync"
 
-	"github.com/davyxu/cellnet"
+	"github.com/jiy1012/cellnet"
 )
 
 type eventList struct {

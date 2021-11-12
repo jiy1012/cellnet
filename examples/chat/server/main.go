@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/davyxu/cellnet"
-	"github.com/davyxu/cellnet/examples/chat/proto/chatproto"
-	"github.com/davyxu/cellnet/socket"
+	"github.com/jiy1012/cellnet"
+	"github.com/jiy1012/cellnet/examples/chat/proto/chatproto"
+	"github.com/jiy1012/cellnet/socket"
 	"github.com/davyxu/golog"
 )
 

@@ -3,7 +3,7 @@ package socket
 import (
 	"bytes"
 	"encoding/binary"
-	"github.com/davyxu/cellnet"
+	"github.com/jiy1012/cellnet"
 	"io"
 	"sync"
 )
