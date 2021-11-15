@@ -7,8 +7,8 @@ import (
 
 	"github.com/davyxu/golog"
 	"github.com/davyxu/pbmeta"
-	pbprotos "github.com/davyxu/pbmeta/proto"
-	plugin "github.com/davyxu/pbmeta/proto/compiler"
+	pbprotos "github.com/gogo/protobuf/protoc-gen-gogo/descriptor"
+	plugin "github.com/gogo/protobuf/protoc-gen-gogo/plugin"
 	"github.com/golang/protobuf/proto"
 )
 
